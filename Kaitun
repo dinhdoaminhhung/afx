@@ -1,0 +1,6 @@
+_G.SupperFixLag = true
+_G["Candy Event"] = {
+    BuyX2 = true,
+    BuyFrag = true,
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RafakjRoblox/AfxcaxiRoblox/main/Hoho%20Kaitun%20V3"))()
